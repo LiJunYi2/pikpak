@@ -27,3 +27,7 @@
 ### PikPak 资源共享站
 
 站点地址：https://pikshare.bilivo.top/
+
+### 开发者 API 接口文档
+
+https://github.com/LiJunYi2/pikpak/wiki
