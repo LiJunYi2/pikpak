@@ -27,3 +27,7 @@
 ### PikPak 资源共享站
 
 站点地址：https://pikshare.bilivo.top/
+
+### PikPak 成品全球会员号
+
+[A 嘉小店](https://shop.lijunyi.xyz/) 在线购买~~
