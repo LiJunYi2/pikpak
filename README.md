@@ -3,10 +3,6 @@
 ## PikPak 自动邀请(自动换绑版)
 站点地址：https://pik.bilivo.top/
 
-支持邀请+换绑
-
-<img width="484" alt="image" src="https://github.com/user-attachments/assets/91ca6971-37ed-4c17-9522-c92e17c2b463">
-
 ### PikPak 自动邀请(正式邮箱版)
 站点地址：https://pik.bilivo.top/formal
 
