@@ -27,3 +27,5 @@
 ### PikPak 成品全球会员号
 
 [A 嘉小店](https://shop.lijunyi.xyz/) 在线购买~~
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
